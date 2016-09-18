@@ -1,7 +1,6 @@
 package hiqnet
 
-import "fmt"
+// Test - Development function to run tests on the library
+func Test() {
 
-func SayHello() {
-	fmt.Println("HiQnet")
 }
